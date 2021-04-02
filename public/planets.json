@@ -1,0 +1,39 @@
+export const planet = [
+    
+    {
+        "planet": "Mercury",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/planet-mercury.jpg"
+    },
+    {
+        "planet": "Venus",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/venus.jpg"
+    },
+    {
+        "planet": "Earth",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/planet-earth.jpg"
+    },
+    {
+        "planet": "Mars",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/mars-planet.jpg"
+    },
+    {
+        "planet": "Jupiter",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/jupiter-aurora.jpg"
+    },
+    {
+        "planet": "Saturn",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/saturn-planet.jpg"
+    },
+    {
+        "planet": "Uranus",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/uranus.jpg"
+    },
+    {
+        "planet": "Neptune",
+        "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/neptune-planet.jpg"
+    },
+    {
+        "planet": "Pluto(Dwarf-Planet)",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllNiLlpwQJB62fKvAQfb6k6nWc1M_7ZzZkA&usqp=CAU"
+    }
+]

@@ -1,6 +1,8 @@
 import React from "react";
 
 function Cards(props) {
+  const { addPlanet, shuffle } = props;
+
   function getRandomColor() {
     var letters = "0123456789ABCDEF";
     var color = "#";
@@ -9,8 +11,9 @@ function Cards(props) {
     }
     return color;
   }
+
   return (
-    <div className={props.className+" my-3"} onClick={props.shuffle}>
+    <div className={props.className + " my-3"} onClick={()=>{addPlanet(props.planetName);shuffle()}}>
       <div
         className="card"
         style={{

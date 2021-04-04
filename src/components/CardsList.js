@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import planetsArray from "../planets.json";
 import Cards from "./Cards";
 
-function CardsList() {
+function CardsList(props) {
   const [planets, setPlanets] = useState([]);
 
   useEffect(() => {
@@ -24,6 +24,7 @@ function CardsList() {
               key={planet.planetName}
               {...planet}
               shuffle ={shuffle}
+              addPlanet={props.add}
             />
           );
         })}

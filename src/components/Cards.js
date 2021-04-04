@@ -10,7 +10,7 @@ function Cards(props) {
     return color;
   }
   return (
-    <div className={props.className+" my-3"}>
+    <div className={props.className+" my-3"} onClick={props.shuffle}>
       <div
         className="card"
         style={{

@@ -1,0 +1,38 @@
+[
+  {
+    "planetName": "Mercury",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/planetName-mercury.jpg"
+  },
+  {
+    "planetName": "Venus",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/venus.jpg"
+  },
+  {
+    "planetName": "Earth",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/planetName-earth.jpg"
+  },
+  {
+    "planetName": "Mars",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/mars-planetName.jpg"
+  },
+  {
+    "planetName": "Jupiter",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/jupiter-aurora.jpg"
+  },
+  {
+    "planetName": "Saturn",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/saturn-planetName.jpg"
+  },
+  {
+    "planetName": "Uranus",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/uranus.jpg"
+  },
+  {
+    "planetName": "Neptune",
+    "imageUrl": "https://www.spaceandmotion.com/Images/cosmology/neptune-planetName.jpg"
+  },
+  {
+    "planetName": "Pluto(Dwarf-Planet)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllNiLlpwQJB62fKvAQfb6k6nWc1M_7ZzZkA&usqp=CAU"
+  }
+]

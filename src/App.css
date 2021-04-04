@@ -1,6 +1,16 @@
 .App {
   text-align: center;
-  height: 100vh;
+  /* height: 100vh; */
   color: white;
 }
 
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.cardsDisplay{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-evenly;
+}

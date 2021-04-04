@@ -13,7 +13,7 @@ function Cards(props) {
   }
 
   return (
-    <div className={props.className + " my-3"} onClick={()=>{addPlanet(props.planetName);shuffle()}}>
+    <div className={props.className + " my-3"} align="center" onClick={()=>{addPlanet(props.planetName);shuffle()}}>
       <div
         className="card"
         style={{

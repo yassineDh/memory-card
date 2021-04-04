@@ -19,7 +19,7 @@ function App() {
     <div className="container-fluid text-light">
       <div className="row">
         <div className="col">
-          <Header />
+          <Header planets={selectedPlanets}/>
         </div>
       </div>
       <div className="row">

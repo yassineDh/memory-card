@@ -1,11 +1,11 @@
 import React from "react";
 import ScoreBoard from "./ScoreBoard";
 
-function Header() {
+function Header(props) {
   return (
     <header>
-      <h3>Memory card</h3>
-      <ScoreBoard />
+      <h3 className="text-center">Memory card</h3>
+      <ScoreBoard planets={props.planets} />
     </header>
   );
 }
